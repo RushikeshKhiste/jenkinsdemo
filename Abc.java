@@ -2,6 +2,6 @@ public class Abc
 {
 	public static void main(String args[])
 	{
-		System.out.println("Inside ABC now");
+		System.out.println("Inside ABC");
 	}
 }
